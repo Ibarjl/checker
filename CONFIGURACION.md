@@ -20,7 +20,6 @@ Abre: `config/monitor_config.json`
 }
 ```
 
-### 3. Ejecutar Health Monitor
 
 ```bash
 python main.py

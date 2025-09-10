@@ -1,2 +1,32 @@
-# virtual environment
-frontend/venv
+# Virtual environment
+frontend/venv/
+
+# Julia compiled files
+*.ji
+*.so
+
+# VSCode configuration
+.vscode/
+
+# Temporary files
+*.tmp
+
+# Log files
+*.log
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de respaldo
+*~
+*.bak
+
+# Archivos de distribución/compilación
+dist/
+build/
+
+# Dependencias de Node.js
+node_modules/
+
+# Archivos de entorno
+.env

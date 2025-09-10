@@ -1,4 +1,3 @@
-# ⚠️ WORK IN PROGRESS
 
 # Health Monitor
 
@@ -36,10 +35,6 @@ health-monitor/
 
 ## Requisitos
 
-- Python 3.11+
-- Docker
-- Cluster Kubernetes
-- Librerías (requirements.txt)
 
 ## Instalación
 
